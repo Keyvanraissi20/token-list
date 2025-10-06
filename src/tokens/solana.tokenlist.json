@@ -1,8 +1,15 @@
-
+,
 {
+  "chainId": 101,
   "address": "HFXvw1NdgHTo9bWWbB3XckpHWHv8biHbxAiPUWuku1Sa",
   "symbol": "BTM",
   "name": "Btokhmam",
+  "decimals": 6,
   "logoURI": "https://file.dexlab.space/file/2467577f79784a6da57d4a646ab08086",
+  "tags": ["community", "meme"],
+  "extensions": {
+    "website": "https://btokhmam.com",
+    "twitter": "https://x.com/btokhmam_com",
+    "telegram": "https://t.me/btokhmam_com"
+  }
 }
-
